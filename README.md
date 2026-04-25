@@ -55,15 +55,15 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harit2552&theme=tokyonight" />
     </td>
   </tr>
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harit2552&layout=compact&theme=tokyonight" />
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide=issues" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Harit2552&show_icons=true&theme=tokyonight&hide=issues" />
     </td>
   </tr>
 </table>
